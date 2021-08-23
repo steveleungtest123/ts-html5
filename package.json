@@ -1,0 +1,12 @@
+{
+  "name": "typescript-test",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "tsc",
+    "start": "tsc --watch"
+  },
+  "keywords": [],
+  "author": "Steve <716@stlnd.net>",
+  "license": "ISC"
+}

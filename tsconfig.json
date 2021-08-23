@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "module": "CommonJS",
+    "rootDir": "./src",
+    "outDir": "./public/assets/js",
+    "sourceMap": false,
+    "strict": true
+  },
+  "exclude": ["node_modules", "build", "public"]
+}
